@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+  color:#464646;
+  font-size: 12px;
+}
